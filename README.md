@@ -9,25 +9,25 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jonasjelonek&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats-dun-five-93.vercel.app/api?username=jonasjelonek&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jonasjelonek&show_icons=true"
+    srcset="https://github-readme-stats-dun-five-93.vercel.app/api?username=jonasjelonek&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasjelonek&show_icons=true" />
+  <img src="https://github-readme-stats-dun-five-93.vercel.app/api?username=jonasjelonek&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjelonek&theme=tokyonight&layout=compact"
+    srcset="https://github-readme-stats-dun-five-93.vercel.app/api/top-langs/?username=jonasjelonek&theme=tokyonight&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjelonek&theme=default&layout=compact"
+    srcset="https://github-readme-stats-dun-five-93.vercel.app/api/top-langs/?username=jonasjelonek&theme=default&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjelonek&show_icons=true" />
+  <img src="https://github-readme-stats-dun-five-93.vercel.app/api/top-langs/?username=jonasjelonek&show_icons=true" />
 </picture>
 
 <!--
