@@ -1,4 +1,4 @@
-### See most of my stuff over on [Codeberg](https://codeberg.org/jonasjelonek).
+### Most of my stuff has been moved over to [Codeberg](https://codeberg.org/jonasjelonek).
 ---
 
 ### Hi 👋
