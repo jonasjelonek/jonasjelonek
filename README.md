@@ -1,4 +1,7 @@
-### Hi there 👋
+### See most of my stuff over on [Codeberg](https://codeberg.org/jonasjelonek).
+---
+
+### Hi 👋
 
 <!--
 [![Jonas' GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jonasjelonek&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
